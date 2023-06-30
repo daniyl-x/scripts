@@ -1,4 +1,4 @@
-# /bin/bash
+#!/bin/bash
 
 # ! Root required !
 # Takes one argument as interface name (example: wlp1s0)
